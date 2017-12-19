@@ -221,7 +221,7 @@ namespace CheckTreeBalance
                 {
                     currChildTree.Append(')');
                     children.Add(currChildTree.ToString());
-                    i++;
+                    i++;  
                 }
 
                 else
